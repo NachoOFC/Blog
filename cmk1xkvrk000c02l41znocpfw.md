@@ -1,17 +1,16 @@
 ---
-title: "SMTR: construyendo un sistema de monitoreo eléctrico en tiempo real"
+title: "Sistema de Monitoreo de Activos"
 datePublished: Tue Jan 06 2026 01:48:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmk1xkvrk000c02l41znocpfw
-slug: smtr-construyendo-un-sistema-de-monitoreo-electrico-en-tiempo-real
+slug: sistema-de-monitoreo-de-activos
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767663917925/aa58ba32-99de-460a-a58c-28b08cc83011.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767664038859/698a2296-a4be-438d-92f3-19e20086cbb5.png
 tags: software-development, python, firebase, web-development, software-engineering, studentprojects
 
 ---
 
-![ACCESO DE PRUEBA ](https://cdn.hashnode.com/res/hashnode/image/upload/v1767664093785/68864d49-2f45-4940-af1a-b0430ce156cc.png align="left")
+![ACCESO DE PRUEBA ](https://cdn.hashnode.com/res/hashnode/image/upload/v1767664093785/68864d49-2f45-4940-af1a-b0430ce156cc.png align="center")
 
-  
 [https://smtr-web.netlify.app/login](https://smtr-web.netlify.app/login)  
 Este proyecto nació en un contexto universitario, pero desde el inicio fue pensado como una solución aplicable a un escenario real. **SMTR (Sistema de Monitoreo en Tiempo Real)** busca abordar un problema común en muchas empresas eléctricas: la falta de información en tiempo real para anticipar fallas y tomar mejores decisiones técnicas.
 
